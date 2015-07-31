@@ -1,7 +1,7 @@
 package com.ais.design;
 
 /**
- * Hello world!
+ * Design patterns are coded on test packages.
  *
  */
 public class App 
